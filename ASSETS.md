@@ -1,0 +1,39 @@
+# 中性替代资源
+
+下列图片由本次发布准备脚本从零绘制，仅为矩形/圆角几何占位图，不含原图像素、真人照片或原始元数据。仅沿用资源文件名和尺寸以减少源码缺失引用；不代表原美术或正确界面效果。音频仍未包含。新生成占位图片可按 [MIT 许可](ASSETS-LICENSE.txt) 使用，历史代码授权范围见根目录 LICENSE。
+
+- `images/1.ico`
+- `images/back.png`
+- `images/ball.png`
+- `images/bg1.jpg`
+- `images/bg2.jpg`
+- `images/bg3.jpg`
+- `images/door.png`
+- `images/kuang.png`
+- `images/mb1.jpg`
+- `images/mb2.jpg`
+- `images/ppt1.jpg`
+- `images/ppt2.jpg`
+- `images/ppt3.jpg`
+- `images/ppt4.jpg`
+- `images/ppt5.jpg`
+- `images/ppt6.jpg`
+- `images/ppt7.jpg`
+- `images/r.png`
+- `images/start.png`
+- `texture/pic.png`
+- `texture/z1.png`
+- `texture/z10.png`
+- `texture/z11.png`
+- `texture/z12.png`
+- `texture/z13.png`
+- `texture/z14.png`
+- `texture/z15.png`
+- `texture/z2.png`
+- `texture/z3.png`
+- `texture/z4.png`
+- `texture/z5.png`
+- `texture/z6.png`
+- `texture/z7.png`
+- `texture/z8.png`
+- `texture/z9.png`
